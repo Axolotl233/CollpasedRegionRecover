@@ -1,4 +1,5 @@
-Pipelines used for recover collapsed  region from genome assembly.
+Pipelines used for recover collapsed region from genome assembly.
+utg version start with hifiasm -u0 and pctg.l0 start with hifiasm -u0 -l0
 
 Very personal, please adjust it to your needs, or use published of software instead.
 
