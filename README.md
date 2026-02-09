@@ -1,5 +1,8 @@
 pipelines used for recover collapsed  region from genome assembly.
+
 Very personal, please adjust it to your needs, or use published of software instead.
+
+Utility scripts can be found here: https://github.com/Axolotl233/SimpleScripts
 
 Cphasing: https://github.com/wangyibin/CPhasing
 Phap: https://github.com/JiaoLab2021/PHap
