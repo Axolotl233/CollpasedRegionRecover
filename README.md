@@ -1,9 +1,10 @@
 Pipelines used for recover collapsed region from genome assembly.
 utg version start with hifiasm -u0 and pctg.l0 start with hifiasm -u0 -l0
 
-Very personal, please adjust it to your needs. Utility scripts can be found here: https://github.com/Axolotl233/SimpleScripts. 
+Very personal, please adjust it to your needs, utility scripts can be found here: https://github.com/Axolotl233/SimpleScripts. 
 
-substitute software:
+
+Substitute software:
 Cphasing: https://github.com/wangyibin/CPhasing
 Phap: https://github.com/JiaoLab2021/PHap
 
